@@ -26,3 +26,7 @@ console.log("zvire")
 let cislo = 5;
 let nove_cislo = 6;
 
+
+
+
+
