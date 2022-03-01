@@ -1,0 +1,23 @@
+
+
+HTML - struktura,sémantika(význam)
+
+
+CSS - vzhled
+
+
+JAVASCRIPT - chování, používaj ho prohlížeče
+
+
+
+consol.log()
+
+alert()
+
+prompt()
+
+
+
+
+
+
